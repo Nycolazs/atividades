@@ -9,9 +9,9 @@ Usamos este repositório para compartilhar as atividades respectivas ao nosso cu
 
 Aqui, você pode:
 
--Copiar a atividade que vc precisa
+- Copiar a atividade que vc precisa
 
--Colocar alguma atividade para ajudar a turma
+- Colocar alguma atividade para ajudar a turma
 
 Lembrando que a sua atividade só será publicada na main, caso tenhamos 100% de certeza que está tudo certinho 😊
 Desta forma, caso queira publicar algo, vc cria um pull request e nós iremos avaliar se está tudo ok, se estiver iremos colocar na main e assim todos poderão ver
@@ -34,6 +34,7 @@ Tente deixar o texto o mais identado possível para melhor a leitura, exemplo:
 
 ## Social
 Temos nosso grupo no WhatsApp, qualquer dúvida, pode entrar em contato conosco, agnt n morde
+https://chat.whatsapp.com/Df2JfkcEl65A6XycGRksM1
 
 ## Quem já está contribuindo conosco
 Nycolazs <Profile photo>
