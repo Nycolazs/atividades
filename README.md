@@ -1,5 +1,6 @@
 <div align="center">
     <img height="300" src="https://raw.githubusercontent.com/Nycolazs/atividades/main/media/img/logo_svg.svg" alt="Logo">
+    <br>
     <img src="https://raw.githubusercontent.com/Nycolazs/atividades/main/media/img/building_passing.svg" alt="Build Status">
 </div>
 
@@ -21,7 +22,7 @@ Tente deixar o mais simples de entender possível, e caso vc veja necessidade, p
 Não recomendamos, mas caso necessite, podemos upar fotos também. 
 Tente deixar o texto o mais identado possível para melhor a leitura, exemplo:
 
- ```sh
+```sh
     //Comentário
     1) <- Questão
         a) (Resposta) <- Item
@@ -29,7 +30,7 @@ Tente deixar o texto o mais identado possível para melhor a leitura, exemplo:
     //Essa questão se resolve assim ó
     1)
         a)1+1 = 666
-    ```
+```
 
 ## Social
 Temos nosso grupo no WhatsApp, qualquer dúvida, pode entrar em contato conosco, agnt n morde
