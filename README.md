@@ -1,6 +1,6 @@
 <div align="center">
-    <img height="300" src="https://raw.githubusercontent.com/Nycolazs/atividades/main/media/img/logo_svg.svg" alt="Atividades">
-    [![build status](https://raw.githubusercontent.com/Nycolazs/atividades/main/media/img/logo_svg.svg)]
+    <img height="300" src="https://raw.githubusercontent.com/Nycolazs/atividades/main/media/img/logo_svg.svg" alt="Logo">
+    <img src="https://raw.githubusercontent.com/Nycolazs/atividades/main/media/img/building_passing.svg" alt="Build Status">
 </div>
 
 ## O que é?
@@ -25,9 +25,7 @@ Tente deixar o texto o mais identado possível para melhor a leitura, exemplo:
     //Comentário
     1) <- Questão
         a) (Resposta) <- Item
-    ```
-<br>
- ```sh
+
     //Essa questão se resolve assim ó
     1)
         a)1+1 = 666
